@@ -1,0 +1,23 @@
+#btn-div{
+	display: grid;
+	margin: 8px auto 8px auto;
+	align-items: center;
+	justify-content: center;
+}
+
+button{
+	width: 15vw;
+	height: 10vw;
+	grid-row: 2;
+	margin: 0px 15px;
+	background: orange;
+	text-shadow: 1px 1px white;	
+	font-weight: bold;
+	padding: 6px auto;
+	border: 2px solid brown;
+	border-radius: 18px;
+}
+
+#text{
+	text-shadow: 1px 1px white;
+}
